@@ -1,13 +1,13 @@
 ---
-layout:  post
-title:   "肖战亮相米兰时装周，时尚影响力升级"
-author:  "佚名"
-header-style:text
-catalog:  ture
+layout:       post
+title:        "《JavaScript 二十年》推荐语"
+author:       "Hux"
+header-style: text
+catalog:      true
 tags:
-    -Web
-    -JavaScript
---- 
+    - Web
+    - JavaScript
+---
 ## 2025秋冬米兰时装周开幕盛况
 
 **2月25日**  
